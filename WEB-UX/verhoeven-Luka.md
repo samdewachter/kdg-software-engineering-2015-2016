@@ -1,1 +1,0 @@
-https://github.com/LukaVerhoeven/kdg-software-engineering-2015-2016.git
